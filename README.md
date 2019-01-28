@@ -1,6 +1,6 @@
 # Bot Builder 
 
-Bot Builder is comprised of SDK and tools that enable you to build and connect intelligent bots that interact naturally wherever your users are talking, from text/sms to Skype, Slack, Office 365 mail and other popular services. You can build bots that converse free-form or your bot can also have more guided interactions where it provides the user choices or possible actions. The conversation can use simple text or more complex rich cards that contain text, images, and action buttons. You can add natural language interactions and questions and answers, which let your users interact with your bots in a natural way.
+Bot Builder is comprised of SDK and tools that enable you to build and connect intelligent bots that interact naturally wherever your users are talking, from text/sms to Skype, Teams, Slack, Facebook and other popular services, as well as on your webpage and in your app. You can build bots that converse free-form or your bot can also have more guided interactions where it provides the user choices or possible actions. The conversation can use simple text or more complex rich cards that contain text, images, and action buttons. You can add natural language interactions and questions and answers, which let your users interact with your bots in a natural way.
 
 Bot Builder provides the most comprehensive experience for building conversation applications and includes the following SDKs and tools:
 
